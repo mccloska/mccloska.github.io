@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[German Power Grid - Risk Modelling](/sample_page)
+[German Power Grid - Risk Modelling](/pdf/GIC_project_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
