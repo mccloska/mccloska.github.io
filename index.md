@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [GICs](https://gitfront.io/r/user-4045989/opYnot5awnap/German-Power-Grid/)
+- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
