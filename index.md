@@ -8,8 +8,8 @@
 <img src="images/GIC_project_presentation.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Machine Learning - Space Weather](/pdf/egu_display_materials.pdf)
+<img src="images/egu_presentation_final.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
