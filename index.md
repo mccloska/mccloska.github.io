@@ -8,12 +8,12 @@
 <img src="images/GIC_project_presentation.png?raw=true"/>
 
 ---
-[Machine Learning - Space Weather](/pdf/egu_display_materials.pdf)
+[Machine Learning - Solar Flare Predictive Model](/pdf/egu_display_materials.pdf)
 <img src="images/egu_presentation_final.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Machine Learning - Solar Wind Delay Prediction ](/pdf/SWdelay_WAWML.pdf)
+<img src="images/swdelay_displayimage.png?raw=true"/>
 
 ---
 
