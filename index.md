@@ -5,7 +5,7 @@
 ### Projects
 
 [German Power Grid - Risk Modelling](/pdf/GIC_project_presentation.pdf)
-<img src="images/GIC_project_presentation.png?raw=true"/>
+[<img src="images/GIC_project_presentation.png?raw=true"/>](/pdf/GIC_project_presentation.pdf)
 
 ---
 [Machine Learning - Solar Flare Predictive Model](/pdf/egu_display_materials.pdf)
@@ -13,7 +13,7 @@
 
 ---
 [Machine Learning - Solar Wind Delay Prediction ](/pdf/SWdelay_WAWML.pdf)
-<img src="images/swdelay_displayimage.png?raw=true"/>
+[<img src="images/swdelay_displayimage.png?raw=true"/>](/pdf/SWdelay_WAWML.pdf)
 
 ---
 
