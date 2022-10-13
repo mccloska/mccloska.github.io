@@ -12,7 +12,7 @@
 [<img src="images/egu_presentation_final.png?raw=true"/>](/pdf/egu_display_materials.pdf)
 
 ---
-[Machine Learning - Solar Wind Delay Prediction ](/pdf/SWdelay_WAWML.pdf)
+[Machine Learning - Solar Wind Delay Prediction ](https://gitfront.io/r/mccloska/KUtbRdySawZb/ml-solarwind/)
 [<img src="images/swdelay_displayimage.png?raw=true"/>](/pdf/SWdelay_WAWML.pdf)
 
 ---
