@@ -9,7 +9,7 @@
 
 ---
 [Machine Learning - Solar Flare Predictive Model](/pdf/egu_display_materials.pdf)
-<href="https://www.qries.com/"><img src="images/egu_presentation_final.png?raw=true"/>
+<a href="https://www.qries.com/"><img src="images/egu_presentation_final.png?raw=true"></a>
 
 ---
 [Machine Learning - Solar Wind Delay Prediction ](/pdf/SWdelay_WAWML.pdf)
