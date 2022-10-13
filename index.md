@@ -4,7 +4,7 @@
 
 ### Projects
 
-[German Power Grid - Risk Modelling](/pdf/GIC_project_presentation.pdf)
+[German Power Grid - Risk Modelling](https://gitfront.io/r/mccloska/k46bTWFFsJcJ/German-Power-Grid/)
 [<img src="images/GIC_project_presentation.png?raw=true"/>](/pdf/GIC_project_presentation.pdf)
 
 ---
