@@ -8,7 +8,7 @@
 [<img src="images/GIC_project_presentation.png?raw=true"/>](/pdf/GIC_project_presentation.pdf)
 
 ---
-[Machine Learning - Solar Flare Predictive Model](/pdf/egu_display_materials.pdf)
+[Machine Learning - Solar Flare Predictive Model](https://github.com/mccloska/ml_sunspots)
 [<img src="images/egu_presentation_final.png?raw=true"/>](/pdf/egu_display_materials.pdf)
 
 ---
